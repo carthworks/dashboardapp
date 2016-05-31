@@ -1,3 +1,5 @@
 - Install and explore the development stack
         Front end :  Bootstrap, jQuery
         Back end :  Express JS on Node platform
+		
+		welcome to second step
